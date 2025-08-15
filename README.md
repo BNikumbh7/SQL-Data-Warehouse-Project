@@ -61,6 +61,10 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 # 📂 Repository Structure
+
+
+
+# BI: Analytics & Reporting (Data Analysis)
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -84,10 +88,6 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
-
-
-# BI: Analytics & Reporting (Data Analysis)
-
 ## Objective
 To develop robust SQL-based analytical solutions aimed at delivering comprehensive insights into the following areas:
 
