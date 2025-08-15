@@ -66,7 +66,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 # BI: Analytics & Reporting (Data Analysis)
 data-warehouse-project/
+
 │
+
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
